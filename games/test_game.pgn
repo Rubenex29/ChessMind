@@ -1,0 +1,10 @@
+[Event "ChessMind Checkmate Test"]
+[Site "?"]
+[Date "2026.10.04"]
+[Round "1"]
+[White "Player"]
+[Black "Opponent"]
+[Result "0-1"]
+
+1. f3 e5
+2. g4 Qh4# 0-1
